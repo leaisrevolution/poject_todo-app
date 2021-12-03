@@ -1,7 +1,7 @@
 <h1>Todolist </h1>
 <h2>React Mini Project</h2>
 Project goals : React와 SCSS를 이용하여 Todolist 구현 <br>
-참고 사이트: https://dev-guardy.tistory.com/94
+
 <br>
 <h3>Project Issue</h3>
     <ul>
@@ -11,4 +11,9 @@ Project goals : React와 SCSS를 이용하여 Todolist 구현 <br>
 <h3>Todo list</h3>
     <ul>
         <li></li>
+    </ul>
+
+<h3>Reference</h3>
+    <ul>
+        <li> 참고 사이트: https://dev-guardy.tistory.com/94 </li>
     </ul>
