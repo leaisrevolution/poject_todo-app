@@ -1,4 +1,4 @@
-<h1>Todolist </h1>
+<h1>Todolist (완료) </h1>
 <h2>React Mini Project</h2>
 Project goals : React와 SCSS를 이용하여 Todolist 구현 <br>
 
